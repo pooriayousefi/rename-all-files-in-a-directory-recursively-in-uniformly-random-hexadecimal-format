@@ -1,0 +1,23 @@
+
+#pragma once
+#include <iostream>
+#include <fstream>
+#include <string>
+#include <stack>
+#include <queue>
+#include <vector>
+#include <span>
+#include <unordered_map>
+#include <unordered_set>
+#include <concepts>
+#include <algorithm>
+#include <execution>
+#include <numeric>
+#include <filesystem>
+#include <random>
+#include <type_traits>
+#include <thread>
+#include <future>
+#include <chrono>
+#include <functional>
+#include <array>
